@@ -1,0 +1,5 @@
+d3ZucXN0b2tib2xlamp5ZW5zdnlicGpsa3VhcGx2		B64 + ROT13 + CS7 + VIGENERE + PLAYFAIR - welcomepotentialwebclubrecruit
+b2dzd2xmcndwb2JmY2J4dmdtZGZseGp1dnZuaGZ0amFiZ2M=	B64 + ROT13 + CS7 + VIGENERE - finalkeyis natdszgrqhebvpmxilfywcuko
+YW9sdWxlYXJsZnB6anlmd2F2bnlod29m 	B64 + ROT13 + Caesar shift 7 - thenextkeyis cryptography
+aGZyZ3VyeHJsZ2pyYWds		B64 + ROT13 - usethekey twenty
+Z3JlYXRzdGFydA== 	BASE64 - greatstart
